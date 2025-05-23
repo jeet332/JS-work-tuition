@@ -1,0 +1,3 @@
+Continue:
+Causes the loop to skip the remainder of its body.
+ and imidiately retest its condition preor to reiterating.

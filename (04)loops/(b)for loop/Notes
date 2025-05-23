@@ -1,0 +1,5 @@
+what is for loop?
+= The for statement in python as the ability to iterate over the items of any sequence such as list or a string.
+default function are (range)
+The range function is the right function to iterate over a sequence of numbers.
+it generate and iterator of arithmatic progression.
